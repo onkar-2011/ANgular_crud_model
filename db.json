@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "firstName": "onkat",
+      "lastName": "mali",
+      "email": "data"
+    },
+    {
+      "id": 11,
+      "firstName": "akash",
+      "lastName": "chvan",
+      "email": "dilip"
+    },
+    {
+      "id": 12,
+      "firstName": "ram",
+      "lastName": "attit",
+      "email": "aash"
+    },
+    {
+      "id": 13,
+      "firstName": "ram",
+      "lastName": "patil",
+      "email": "mail@123"
+    }
+  ]
+}
